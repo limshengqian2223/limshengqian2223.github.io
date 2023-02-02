@@ -1,3 +1,5 @@
+* {font-family: monospace;
+}
 h1 {
     font-size: 72px;  
 }
@@ -7,6 +9,8 @@ h2 {
 }
 
 h4.job-title {
+    color: red;
+    font-size: 30px;
 }
 
 h2#menu {
